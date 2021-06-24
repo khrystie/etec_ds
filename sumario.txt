@@ -25,4 +25,19 @@ Estudos
   diadasemana_A0.java - JOptionPane, estrutura de decisão encadeada, try-catch
   planoSaude.java - JOptionPane, estrutura de decisão(else if), try-catch
   
+  /*** Estrutura Lógica de Iteração ***/ 
+Atividades    
+  Agenda 6: 
+    
+Estudos
+  notasMedia.java - Scanner, laço de repetição PARA(for)
+  /* exibe o resultado da soma */
+  todosnumSoma.java - laço de repetição PARA
+  /* exibe a soma de cada número (cada iteração) */
+  todosnumSoma_A0.java - laço de repetição PARA
+  promocaoPreco.java - laço repetição PARA, Scanner
+
   
+  
+    
+
