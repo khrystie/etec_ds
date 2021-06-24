@@ -8,7 +8,7 @@
 
 import javax.swing.JOptionPane;
 
-public class JOag4 {
+public class 04_faixaEtaria_A0 {
 
 	public static void main(String[] args) {
 		
