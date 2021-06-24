@@ -6,6 +6,7 @@ Atividades
     Agenda 1: Pseudocódigo
     Agenda 2: Fluxograma
     Agenda 3: 01_mediaNotas.java  - Scanner
+    Agenda 5: 05_cargaBagagens - JOptionPane, try-catch
 
 Estudos
     areaTriangulo.java - Scanner
@@ -22,4 +23,6 @@ Estudos
   diadasemana.java - JOptionPane, estrutura de decisão encadeada, try-catch
   /* código sem chaves na estrutura de decisão */
   diadasemana_A0.java - JOptionPane, estrutura de decisão encadeada, try-catch
+  planoSaude.java - JOptionPane, estrutura de decisão(else if), try-catch
+  
   
