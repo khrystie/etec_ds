@@ -10,7 +10,7 @@
 import java.util.Scanner;
 
 
-public class ChrystieAkemiTakagiKurashima_Ag3_DS_I {
+public class 01_mediaNotas {
 
 	public static void main(String[] args) {
 
