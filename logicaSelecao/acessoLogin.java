@@ -1,6 +1,7 @@
 /************************************************************************
-	Programa: Leitura de login e senha. Exibe se acesso é liberado ou não.
-  Tag: Estrutura Lógica de Seleção ou Estrutra de Decisão, Scanner
+	Programa: Leitura de login e senha. Exibe se acesso é liberado 
+	ou não.
+	Tag: Estrutura Lógica de Seleção ou Estrutra de Decisão, Scanner
  	Autor: Chrystie
  	Data: 12/09/2020
 ************************************************************************/
