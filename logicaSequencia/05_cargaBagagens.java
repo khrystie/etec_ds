@@ -1,7 +1,7 @@
 /************************************************************************
 	Programa: Leitura do nome do voo e do peso de dez bagagens. Exibe o
 	numero do voo, total e o peso médio da carga. 
-  Tag: Estrutura Lógica de Sequência, JOptionPane, try-catch
+  	Tags: Estrutura Lógica de Sequência, JOptionPane, try-catch
  	Autor: Chrystie
  	Data: 21/09/2020
 ************************************************************************/
