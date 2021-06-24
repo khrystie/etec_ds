@@ -1,5 +1,5 @@
 /************************************************************************
-	Programa: Exibe a soma dos números de 1 a 100.
+	Programa: Exibe o reultado da soma dos números de 1 a 100.
 	Tags: Estrutura Lógica de iteração(Laço de repetição PARA) 
  	Autor: Chrystie
  	Data: 28/09/2020
