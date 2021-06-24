@@ -5,7 +5,7 @@
  	Data: 28/09/2020
 ************************************************************************/
 
-public class sum_all_num {
+public class todosnumSoma_A0 {
 
 	public static void main(String[] args) {
 		// declaração de variáveis
