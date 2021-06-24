@@ -1,7 +1,7 @@
 /************************************************************************
 	Programa: Leitura da idade, exibe a qual fila pertence de acordo
 	com a faixa etária. 
-  	Tag: Estrutura Lógica de Seleção, JOptionPane
+  	Tag: Estrutura Lógica de Seleção, JOptionPane, try-catch
  	Autor: Chrystie
  	Data: 15/09/2020
 ************************************************************************/
