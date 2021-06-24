@@ -1,7 +1,7 @@
 /************************************************************************ 
 	Programa: Leitura dos dados nome, telefone e notas. Exibe os dados e a 
 	média.
-	Tag: Estrutra Lógica de Sequência
+	Tag: Estrutra Lógica de Sequência, Scanner
  	Autor: Chrystie
  	Data: 07/09/2020
 ************************************************************************/
