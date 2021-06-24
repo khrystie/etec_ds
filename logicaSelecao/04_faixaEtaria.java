@@ -9,7 +9,7 @@
 //importa biblioteca
 import java.util.Scanner;
 
-public class Chrystie_Ag4_DS_I {
+public class 04_faixaEtaria {
 
 	public static void main(String[] args) {
 		
