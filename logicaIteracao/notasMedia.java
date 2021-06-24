@@ -1,7 +1,7 @@
 /************************************************************************
 	Programa: Leitura de duas notas de três alunos. Exibe média. 
-	Tags: Estrutura Lógica de iteração(Laço de repetição PARA) e seleção, 
-  Scanner.
+	Tags: Estrutura Lógica de iteração(Laço de repetição PARA) e 
+	seleção, Scanner.
  	Autor: Chrystie
  	Data: 28/09/2020
 ************************************************************************/
