@@ -3,4 +3,9 @@
 Atividades
 
 Estrutura Lógica de Sequência
-01_
+Agenda 1: Pseudocódigo
+Agenda 2: Fluxograma
+Agenda 3: 01_mediaNotas.java
+
+Estudos
+areaTriangulo.java
