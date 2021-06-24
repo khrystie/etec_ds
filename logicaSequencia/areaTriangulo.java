@@ -1,7 +1,7 @@
 /************************************************************************
-	Programa: Leitura das medidas da base e altura de um triângulo. Exibe
-  área do triângulo.
-  Tag: Estrutura Lógica de Sequência, Scanner
+	Programa: Leitura das medidas da base e altura de um triângulo. 
+	Exibe área do triângulo.
+  	Tag: Estrutura Lógica de Sequência, Scanner
  	Autor: Chrystie
  	Data: 07/09/2020
 ************************************************************************/
