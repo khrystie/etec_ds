@@ -8,7 +8,7 @@
 // importa biblioteca
 import java.util.Scanner;
 
-public class ErrorMsg_e_equalString {
+public class acessoLogin {
 
 	public static void main(String[] args) {
 		// declare
