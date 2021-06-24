@@ -9,7 +9,7 @@
 // importa biblioteca
 import java.util.Scanner;
 
-public class Area_do_Triangulo {
+public class areaTriangulo {
 
 	public static void main(String[] args) {
 		
