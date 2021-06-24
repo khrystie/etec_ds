@@ -1,0 +1,73 @@
+/************************************************************************
+	Programa: Leitura do número correspondente ao mês. Exibe o nome do 
+	mês.
+  Tags: Estrutura Lógica de Seleção, JOptionPane, switch case
+ 	Autor: Chrystie
+ 	Data: 21/09/2020
+************************************************************************/
+
+// importa biblioteca
+import javax.swing.JOptionPane;
+
+public class Chrystie_Ag5_DS_I {
+
+	public static void main (String[] args) {
+			
+		int	mes = Integer.parseInt(JOptionPane.showInputDialog(null,"Insira um número de 1 a 12 para exibir o nome do mês correspondente"));
+	
+		switch (mes) {
+			case 1: 	
+			JOptionPane.showMessageDialog(null, "O mês selecionado é Janeiro");	
+			break;
+			
+			case 2: 
+			JOptionPane.showMessageDialog(null, "O mês selecionado é Fevereiro");	
+			break;
+			
+			case 3: 
+			JOptionPane.showMessageDialog(null, "O mês selecionado é Março");	
+			break;
+		
+			case 4: 
+			JOptionPane.showMessageDialog(null, "O mês selecionado é Abril");	
+			break;
+		
+			case 5: 
+			JOptionPane.showMessageDialog(null, "O mês selecionado é Maio");	
+			break;
+		
+			case 6: 
+			JOptionPane.showMessageDialog(null, "O mês selecionado é Junho");	
+			break;
+		
+			case 7: 
+			JOptionPane.showMessageDialog(null, "O mês selecionado é Julho");	
+			break;
+		
+			case 8: 
+			JOptionPane.showMessageDialog(null, "O mês selecionado é Agosto");	
+			break;
+		
+			case 9: 
+			JOptionPane.showMessageDialog(null, "O mês selecionado é Setembro");	
+			break;
+		
+			case 10: 
+			JOptionPane.showMessageDialog(null, "O mês selecionado é Outubro");
+			break;
+			
+			case 11: 
+			JOptionPane.showMessageDialog(null, "O mês selecionado é Novembro");	
+			break;
+			
+			case 12: 
+			JOptionPane.showMessageDialog(null, "O mês selecionado é Dezembro");	
+			break;	
+		
+			default:
+			JOptionPane.showMessageDialog(null, "O número não corresponde a nenhum mês");	
+			break;
+		}
+
+	}
+}
