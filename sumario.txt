@@ -12,7 +12,13 @@ Estudos
 
   /*** Estrutura Lógica de Seleção ***/
 Atividades
-
+  Agenda 4: 04_faixaEtaria.java - Scanner
   
 Estudos
   acessoLogin.java - Scanner
+  multousoma.java - JOptionPane
+  /* código com comentários sobre as chaves na estrutura de decisão */
+  diadasemana.java - JOptionPane, estrutura de decisão encadeada
+  /* código sem chaves na estrutura de decisão */
+  diadasemana_A0.java 
+
