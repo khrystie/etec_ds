@@ -16,9 +16,10 @@ Atividades
   
 Estudos
   acessoLogin.java - Scanner
-  multousoma.java - JOptionPane
+  multousoma.java - JOptionPane, try-catch
+  04_faixaEtaria_A0.java - JOptionPane, try-catch
   /* código com comentários sobre as chaves na estrutura de decisão */
-  diadasemana.java - JOptionPane, estrutura de decisão encadeada
+  diadasemana.java - JOptionPane, estrutura de decisão encadeada, try-catch
   /* código sem chaves na estrutura de decisão */
-  diadasemana_A0.java 
-
+  diadasemana_A0.java - JOptionPane, estrutura de decisão encadeada, try-catch
+  
