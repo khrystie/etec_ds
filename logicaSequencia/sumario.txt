@@ -2,10 +2,17 @@
 
 Atividades
 
-Estrutura Lógica de Sequência
-Agenda 1: Pseudocódigo
-Agenda 2: Fluxograma
-Agenda 3: 01_mediaNotas.java  - Scanner
+  /*** Estrutura Lógica de Sequência ***/ 
+    Agenda 1: Pseudocódigo
+    Agenda 2: Fluxograma
+    Agenda 3: 01_mediaNotas.java  - Scanner
 
 Estudos
-areaTriangulo.java - Scanner
+    areaTriangulo.java - Scanner
+
+  /*** Estrutura Lógica de Seleção ***/
+Atividades
+
+  
+Estudos
+  acessoLogin.java - Scanner
