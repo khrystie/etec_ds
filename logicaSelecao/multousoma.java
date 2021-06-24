@@ -9,7 +9,7 @@
 // biblioteca do JOptionPane
 import javax.swing.JOptionPane;
 
-public class desafio_Ag4 {
+public class multousoma {
 
 	public static void main(String[] args) {
 
