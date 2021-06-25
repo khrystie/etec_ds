@@ -1,7 +1,7 @@
 /************************************************************************
 	Programa: Leitura do número correspondente ao mês. Exibe o nome do 
 	mês.
-  Tags: Estrutura Lógica de Seleção, JOptionPane, switch case
+  	Tags: Estrutura Lógica de Seleção, JOptionPane, switch case
  	Autor: Chrystie
  	Data: 21/09/2020
 ************************************************************************/
@@ -9,7 +9,7 @@
 // importa biblioteca
 import javax.swing.JOptionPane;
 
-public class Chrystie_Ag5_DS_I {
+public class 05_switchcaseMes {
 
 	public static void main (String[] args) {
 			
