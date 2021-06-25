@@ -44,7 +44,7 @@ Estudos
   iteracaoSoma.java - laço repetição enquanto-faça, Scanner
   iteracaoExibir.java - laço repetição enquanto e para
   iteracaoSim.java - laço repetição enquanto-faça, Scanner
-    
-  
+  iteracaoExibirSoma.java - laço repetição enquanto, Scanner    
+  iteracaoDezenasSoma.java - laço repetição enquanto, JOptionPane ---------------------------> corrigir código. refazer. <----------------------------
     
 
