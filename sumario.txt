@@ -28,7 +28,8 @@ Estudos
   
   /*** Estrutura Lógica de Iteração ***/ 
 Atividades    
-  Agenda 6: 
+  Agenda 6: 06_promocaoPreco.java - laço repetição PARA, Scanner
+  Agenda 6: 06_numTabuada.java - laço repetição PARA, Scanner   ---------------------------> dá 1 volta. refazer. <----------------------------
     
 Estudos
   notasMedia.java - Scanner, laço de repetição PARA(for)
@@ -36,7 +37,6 @@ Estudos
   todosnumSoma.java - laço de repetição PARA
   /* exibe a soma de cada número (cada iteração) */
   todosnumSoma_A0.java - laço de repetição PARA
-  promocaoPreco.java - laço repetição PARA, Scanner
   /* exibe a saída no terminal */
   promocaoPreco.java - laço repetição PARA, JOptionPane, try-catch
   maiordeidade.java - laço repetição PARA, JOptionPane
