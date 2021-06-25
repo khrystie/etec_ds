@@ -7,7 +7,7 @@
 
 import javax.swing.JOptionPane;
 
-public class Chrystie_Ag7_DS_I_apostila_exerc1_dowhile {
+public class iteracaoMedia {
 
 	public static void main(String[] args) {
 		// variáveis
