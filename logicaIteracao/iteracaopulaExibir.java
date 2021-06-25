@@ -6,7 +6,7 @@
  	Data: 28/09/2020
 ************************************************************************/
 
-public class iteracaoExibir {
+public class iteracaopulaExibir {
 	public static void main (String[] args) {
 	// saída mensagem
     		System.out.println("Pula de 10 em 10 até 100 ");
