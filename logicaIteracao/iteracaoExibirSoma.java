@@ -1,6 +1,6 @@
 /************************************************************************
-	Programa: Leitura de 5 números inteiros, exibe a soma do número 
-	anterior e então, no final, exibe a média.
+	Programa: Leitura de 5 números inteiros, exibe a soma a cada 
+	iteração e, então, no final, exibe a média.
 	Tags: Estrutura Lógica de iteração enquanto, Scanner
  	Autor: Chrystie
  	Data: 08/10/2020
