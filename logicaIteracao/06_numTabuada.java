@@ -8,7 +8,7 @@
 
 import java.util.Scanner; 
 
-public class 06_tabuadanumero { 
+public class 06_numTabuada { 
 
 	public static void main (String[] args) { 
 		// variáveis
