@@ -42,10 +42,10 @@ Estudos
   maiordeidade.java - laço repetição PARA, JOptionPane
   pula.java - laço repetição enquanto e enquanto-faça, continue, break
   iteracaoSoma.java - laço repetição enquanto-faça, Scanner
-  iteracaoExibir.java - laço repetição enquanto e para
+  iteracaopulaExibir.java - laço repetição enquanto e para
   iteracaoSim.java - laço repetição enquanto-faça, Scanner
   iteracaoExibirSoma.java - laço repetição enquanto, Scanner    
   iteracaoDezenasSoma.java - laço repetição enquanto, JOptionPane ---------------------------> corrigir código. refazer. <----------------------------
   iteracaoMedia.java - laço repetição enquanto-faça, JOptionPane  
   iteracaoComparar.java - laço repetição enquanto, Scanner 
-
+  iteracaoExibir.java - laço repetição enquanto
