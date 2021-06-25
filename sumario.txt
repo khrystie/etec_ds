@@ -14,6 +14,7 @@ Estudos
   /*** Estrutura Lógica de Seleção ***/
 Atividades
   Agenda 4: 04_faixaEtaria.java - Scanner
+  Agenda 5: 05_switchcaseMes.java - JOptionPane, switch case
   
 Estudos
   acessoLogin.java - Scanner
@@ -36,6 +37,9 @@ Estudos
   /* exibe a soma de cada número (cada iteração) */
   todosnumSoma_A0.java - laço de repetição PARA
   promocaoPreco.java - laço repetição PARA, Scanner
+  /* exibe a saída no terminal */
+  promocaoPreco.java - laço repetição PARA, JOptionPane, try-catch
+  maiordeidade.java - laço repetição PARA, JOptionPane
 
   
   
