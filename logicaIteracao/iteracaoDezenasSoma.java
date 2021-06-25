@@ -6,7 +6,7 @@
 ************************************************************************/
 
 import  javax.swing.JOptionPane;
-public class Chrystie_Ag7_DS_I_apostila_exerc2_while {
+public class iteracaoDezenasSoma {
 	public static void main(String[] args) {
 		// variáveis	
 		int num=0, i=0, soma;
