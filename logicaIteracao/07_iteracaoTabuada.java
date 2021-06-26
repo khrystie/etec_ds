@@ -6,7 +6,7 @@
 ************************************************************************/
 
 
-public class Chrystie_Ag7_DS_I_opcional { 
+public class 07_iteracaoTabuada { 
 	public static void main (String[] args) {
 		// variáveis
 		int numero=1;
