@@ -11,7 +11,7 @@ import javax.swing.JOptionPane;
 public class convidadosLista {
 	public static void main(String[] args) {
 		// declaração de variáveis
-		int contador = 0, num=3;
+		int contador = 0, num=10;
 		// variável com a mensagem fixa
 		String listafinal = "Os convidados da festa são: "; 
 		// vetor convidados: dez posições
