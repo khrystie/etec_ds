@@ -58,4 +58,4 @@ Estudos
   vetornotasMedia.java - Laço de repetição para, Scanner, vetores  
   vetornumDivisivel.java - Laço de repetição para, Scanner, vetores, String.valueOf (numero inteiro para String)
   vetornumExibir.java - Laço de repetição para, Scanner, vetores
-  
+  vetormaioridade.java - Laço de repetição para, Scanner, vetores
