@@ -1,6 +1,6 @@
 /**************************************************************************
-	Programa: Inserir cinco números inteiros em um vetor. Exibir todos os 
-	números inseridos nesse vetor.
+	Programa: Inserir cinco números inteiros em um vetor. Exibir todos
+	os números inseridos nesse vetor em ordem decrescente.
 	Tags: Laço de repetição para, Scanner, vetores
  	Autor: Chrystie
  	Data: 12/10/2020
