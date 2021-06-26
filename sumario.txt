@@ -30,7 +30,9 @@ Estudos
 Atividades    
   Agenda 6: 06_promocaoPreco.java - laço repetição PARA, Scanner
   Agenda 6: 06_numTabuada.java - laço repetição PARA, Scanner   ---------------------------> dá 1 volta. refazer. <----------------------------
-    
+  Agenda 7: 07_elevador.java - laço repetição enquanto e para, switch-case,scanner -------------> otimizar código. refazer. <------------------
+  Agenda 7: 07_iteracaoTabuada.java - laço repetição enquanto e para -------------> otimizar código. refazer. <------------------
+
 Estudos
   notasMedia.java - Scanner, laço de repetição PARA(for)
   /* exibe o resultado da soma */
@@ -50,4 +52,3 @@ Estudos
   iteracaoMedia.java - laço repetição enquanto-faça, JOptionPane  
   iteracaoComparar.java - laço repetição enquanto, Scanner 
   iteracaoExibir.java - laço repetição enquanto
-  iteracaoTabuada.java - laço repetição enquanto e para 
