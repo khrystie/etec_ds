@@ -1,0 +1,223 @@
+<!-- 
+    Descrição: Página web com galeria de fotos, sua lista e vídeo do youtube incorporado na página.
+    Tags: css, link hover, img hover, border radius, grayscale, mouse pointer, border dotted  
+    display table, max-height, object fit, overflow, figure, figurecaption, img alt
+    Data: 04/11/2021
+    Autor: Chrystie
+-->
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+  <base target="_blank">
+  <title>Meus sites favoritos</title>
+    <style>
+      body {
+        background: #f7fcf2;
+        margin: 0;
+      }
+
+      h1	{
+        color: #mmm;
+        font-family: cursive;
+        text-align: center;
+      }
+
+      *	{
+        box-sizing: border-box;
+      }
+
+      .content	{
+        background: #fff;
+        margin: auto;
+        width: 80%;
+        border-radius: 8px;
+      }
+
+      .column	{
+        float: left;
+        width:  50%;
+        padding: 5px;
+        margin: 5%px;
+        border-radius: 8px;
+      }
+      .column h1	{
+        color: #b791c9;
+        font-family: arial;
+        text-align: left;
+        border-bottom: 1px dotted #ccc;
+      }
+
+      .column a	{
+        color: #fff;
+        background: #876384;
+      }
+
+      .row::after	{
+        content:	"" ;
+        clear: both;
+        display: table;
+      }
+
+      img {
+        border-radius: 8px;
+        opacity:80%;
+        filter: grayscale(100%);
+        object-fit: cover;
+        width: 100%;
+        max-height: 250px;
+        overflow: hiden;
+      }
+
+      img:hover {
+        opacity: 100%;
+        filter: none;
+      }
+
+    #footer	{
+      text-align: center;
+      width: 100%;
+      height: 100px;
+      padding-top:	10px;
+      margin-top: 100px;
+      background: #f0fae6;
+    }
+  </style>
+    </head>
+    <body>
+      <!-- título corpo da página-->
+      <h1>Meus sites favoritos: Chrystie</h1><hr>
+      <center><h2>Desenvolvimento de Sistemas</h2>
+      <h3>Desenvolvimento web</h3>
+      <h4>Agenda 11</h4></center>
+
+      <div class="content">
+        <div class="row">
+          <figure>
+            <!-- Foto 1 Imagem com link-->
+            <div class="column">
+              <h1> Nyanpedia</h1>
+              <a href="https://nyanpedia.com/post-4882/"><img src="gato1.jpg" alt="Gato"></a>
+              <figcaption>
+                Gato. Fonte: <a href="https://nyanpedia.com/post-4882/">Nyanpedia Site</a>
+              </figcaption>
+            </div>
+
+            <!-- Foto 2 -->
+            <div class="column">
+              <h1>Machicon</h1>
+              <img src="inu.jpg" alt="Inuneko CAFE LUA / Machida City, Tóquio">
+              <figcaption>
+                Cachorro. Fonte:  <a href="https://machicon.jp/animalcafe/column/4303">Machicon Site</a>
+              </figcaption>
+            </div>
+
+            <!-- Foto 3 -->
+            <div class="column">
+              <h1>House Beautiful</h1>
+              <img src="7.jpg" alt="Tulipa">
+              <figcaption>
+                  Tulipa. Fonte:  <a href="https://www.housebeautiful.com/lifestyle/gardening/g13074130/beautiful-flower-images/?slide=5">House Beautiful Site</a>
+              </figcaption>
+            </div>
+
+            <!-- Foto 4 -->
+            <div class="column">
+              <h1>House Beautiful</h1>
+              <img src="10.jpg" alt="Girassol">
+              <figcaption> 
+                 Girassol. Fonte: <a href="https://www.housebeautiful.com/lifestyle/gardening/g13074130/beautiful-flower-images/?slide=6">House Beautiful Site</a>
+              </figcaption>
+            </div>
+
+            <!-- Foto 5 -->
+            <div class="column">
+              <h1>Solar System Exploration</h1>
+              <img src="SolarSystemExploration.jpg" alt="The View from Earth: Space Station, Jupiter, Milky Way">
+              <figcaption>
+                  Jupiter. Fonte: <a href="https://solarsystem.nasa.gov/resources/2500/the-view-from-earth-space-station-jupiter-milky-way/?category=planets_jupiter">NASA/Bill Dunford</a>
+              </figcaption>
+            </div>
+
+            <!-- Foto 6 -->
+            <div class="column">
+              <h1>Solar System Exploration</h1>
+              <img src="Jupiter.jpg" alt="Hubble's New Portrait of Jupiter">
+              <figcaption>
+                  Jupiter. Fonte: <a href="https://solarsystem.nasa.gov/resources/2486/hubbles-new-portrait-of-jupiter/?category=planets_jupiter">NASA, ESA, A. Simon (Goddard Space Flight Center), and M.H. Wong (University of California, Berkeley)</a>
+              </figcaption>
+            </div>
+
+            <!-- Foto 7 -->
+            <div class="column">
+              <h1>Coisas do Japão</h1>
+              <img src="fujisan.jpg" alt="Monte Fuji">
+              <figcaption>
+                  Monte Fuji. Fonte: <a href="https://coisasdojapao.com/2017/02/fujisan-no-hi-5-melhores-lugares-para-apreciar-o-monte-fuji-cdj/">Coisas do Japão</a>
+              </figcaption>
+            </div>
+
+            <!-- Foto 8 -->
+            <div class="column">
+              <h1>Coisas do Japão</h1>
+              <img src="fuji.jpg" alt="Monte Fuji">
+              <figcaption>
+                  Monte Fuji. Fonte: <a href="https://coisasdojapao.com/2017/02/fujisan-no-hi-5-melhores-lugares-para-apreciar-o-monte-fuji-cdj/">Coisas do Japão</a>
+              </figcaption>
+            </div>
+
+            <!-- Foto 9 -->
+            <div class="column">
+              <h1>PlanetWare</h1>
+              <img src="BayofFundy.jpg" alt="Bay of Fundy">
+              <figcaption>
+                  Bay of Fundy. Fonte: <a href="https://www.planetware.com/tourist-attractions/canada-cdn.htm">PlanetWare</a>
+              </figcaption>
+             </div>
+
+            <!-- Foto 10 -->
+            <div class="column">
+              <h1>PlanetWare</h1>
+              <img src="Vancouver.jpg" alt="Vancouver's Stanley Park">
+              <figcaption>
+                  Vancouver's Stanley Park. Fonte: <a href="https://www.planetware.com/tourist-attractions/canada-cdn.htm">PlanetWare</a>
+              </figcaption>
+            </div>
+          </figure>
+          <!-- fim figurecaption -->
+        </div>
+        <!-- fim row -->
+        
+        <!-- listagem -->  
+        <h1>Lista</h1><hr>
+          <ol>
+            <li> Gato </li>
+            <li> Cachorro </li>
+            <li> Tulipa </li>
+            <li> Girassol </li>
+            <li> Jupiter </li>
+            <li> Jupiter </li>
+            <li> Canadá </li>
+            <li> Canadá </li>
+          </ol>
+        <!-- fim listagem -->  
+
+      <br><br>
+      </div>
+      <!-- fim content-->
+      
+      <br>
+      <!--  HTML5 não suporta URL do Youtube como um recurso.
+      <video controls>
+      <source scr="">
+      </video>
+      --> 
+      <h1>Vídeo</h1>
+      <center><iframe width="560" height="315" src="https://www.youtube.com/embed/c28SCFZqIJE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+      <!-- Rodapé -->
+      <div id="footer"><a href="#" target="_self">Top</a></div>
+  </body>
+</html>
