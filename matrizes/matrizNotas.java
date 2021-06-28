@@ -9,7 +9,7 @@
 
 import java.util.Scanner;
 
-public class Chrystie_Ag9_DS_I_apostila_exerc1 {
+public class matrizNotas {
 	public static void main (String[] args) {
 		// variáveis
 		int numAlunos= 2, numNotas=2;
