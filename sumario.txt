@@ -79,3 +79,7 @@ Estudos
   matrizforadolaco.java - Laço de repetição para, matrizes, JOptionPane, Scanner -------------> estudar código <------------------
   matrizEstacionamento.java - Laço de repetição para, matrizes, Scanner -------------> estudar/otimizar código <------------------
   
+  /*** Página web ***/  
+ Atividades
+  10_agenda.html - css, p, span class, hr 
+  
