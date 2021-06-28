@@ -65,3 +65,8 @@ Estudos
   vetornumExibir.java - Laço de repetição para, Scanner, vetores
   vetormaioridade.java - Laço de repetição para, Scanner, vetores
   
+  /*** Matriz ***/  
+Atividades
+
+Estudos
+  matrizNotas.java - Laço de repetição para, matrizes, Scanner
