@@ -8,7 +8,7 @@
 
 import java.util.Scanner;
 
-public class Chrystie_Ag9_DS_I_apostila_exerc2 {
+public class matrizSoma {
 
 	public static void main (String[] args) {
 		// variáveis
