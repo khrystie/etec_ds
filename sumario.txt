@@ -53,7 +53,11 @@ Estudos
   iteracaoComparar.java - laço repetição enquanto, Scanner 
   iteracaoExibir.java - laço repetição enquanto
 
-/*** Vetor ***/   
+  /*** Vetor ***/   
+Atividades
+  Agenda 8: vetorconsistirsumDivisivel.java - Laço de repetição para e enquanto, vetor, Scanner
+
+Estudos
   convidadosLista.java - Laço de repetição para, JOptionPane, vetores
   vetornotasMedia.java - Laço de repetição para, Scanner, vetores  
   vetornumDivisivel.java - Laço de repetição para, Scanner, vetores, String.valueOf (numero inteiro para String)
