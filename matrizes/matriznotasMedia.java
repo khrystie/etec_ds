@@ -1,7 +1,7 @@
 /**************************************************************************
 	Programa: Inserir notas de alunos na matriz. Exibir cada nota e a média
 	de cada um.
-	Tags: Laço de repetição para, matrizes, JOptionPane
+	Tags: Laço de repetição para, matrizes, JOptionPane, try-catch
  	Autor: Chrystie
  	Data: 19/10/2020
 **************************************************************************/
