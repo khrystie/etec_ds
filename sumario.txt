@@ -69,4 +69,4 @@ Estudos
 Atividades
 
 Estudos
-  matrizNotas.java - Laço de repetição para, matrizes, Scanner
+  matrizNotas.java - Laço de repetição para, matrizes, Scanner -------------> otimizar código (inserir média para cada aluno) <------------------
