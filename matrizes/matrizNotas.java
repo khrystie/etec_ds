@@ -1,6 +1,6 @@
 /**************************************************************************
-	Programa: Digitar  números  inserindo-os na matriz notas.Exibir as notas
-	de cada aluno.
+	Programa: Digitar  números  inserindo-os na matriz notas.Exibir as 
+	notas de cada aluno.
 	divisíveis por quatro.
 	Tags: Laço de repetição para, matrizes, Scanner
  	Autor: Chrystie
