@@ -9,7 +9,7 @@
 
 import java.util.Scanner; 
 
-public class vetorconsistirsumDivisivel { 
+public class 08_vetordivisivelSoma { 
 	public static void main (String[] args) { 
 		// variáveis
 		int soma = 0, num = 3; 		
