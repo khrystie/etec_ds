@@ -82,4 +82,7 @@ Estudos
   /*** Página web ***/  
  Atividades
   10_agenda.html - css, p, span class, hr 
+  11_agenda.html - css, link hover, img hover, border radius, grayscale, mouse pointer, border dotted, display table, max-height, object fit, overflow, figure,                        figurecaption, img alt
+    
+  
   
