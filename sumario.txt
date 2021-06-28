@@ -73,3 +73,5 @@ Estudos
   matrizSoma.java - Laço de repetição para, matrizes, Scanner 
   matrizDados.java - Laço de repetição para, matrizes, concat, Scanner 
   matriznotasMedia.java - Laço de repetição para, matrizes, JOptionPane, try-catch -------------> otimizar código (clean code) <------------------
+  matrizvalorAtribuido.java - Laço de repetição para, matrizes, JOptionPane -------------> otimizar código <------------------
+  matrizforadolaco.java - Laço de repetição para, matrizes, JOptionPane, Scanner -------------> estudar código <------------------
