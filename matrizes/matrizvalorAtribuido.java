@@ -7,7 +7,7 @@
 
 import javax.swing.JOptionPane;
 
-public class Chrystie_Ag9_DS_I_apostila_mat_val_predefinido {
+public class matrizvalorAtribuido {
 	public static void main (String[] args)  {
 		/**
 		 *  matriz 2x2
