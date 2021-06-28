@@ -55,7 +55,8 @@ Estudos
 
   /*** Vetor ***/   
 Atividades
-  Agenda 8: vetorconsistirsumDivisivel.java - Laço de repetição para e enquanto, vetor, Scanner
+  Agenda 8: 08_vetordivisivelSoma.java - Laço de repetição para e enquanto, vetor, Scanner
+  Agenda 8: 08_vetorpremio.java - Laço de repetição para e enquanto, else if, vetor, Scanner 
 
 Estudos
   convidadosLista.java - Laço de repetição para, JOptionPane, vetores
@@ -63,4 +64,4 @@ Estudos
   vetornumDivisivel.java - Laço de repetição para, Scanner, vetores, String.valueOf (numero inteiro para String)
   vetornumExibir.java - Laço de repetição para, Scanner, vetores
   vetormaioridade.java - Laço de repetição para, Scanner, vetores
-  vetorpremio.java - Laço de repetição para e enquanto, else if, vetor, Scanner 
+  
