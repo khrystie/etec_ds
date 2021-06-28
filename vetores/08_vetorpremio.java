@@ -10,7 +10,7 @@
 
 import java.util.Scanner;
 
-public class vetorpremio {
+public class 08_vetorpremio {
 
 	public static void main(String[] args) {
 		// variáveis
