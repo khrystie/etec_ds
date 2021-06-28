@@ -63,3 +63,4 @@ Estudos
   vetornumDivisivel.java - Laço de repetição para, Scanner, vetores, String.valueOf (numero inteiro para String)
   vetornumExibir.java - Laço de repetição para, Scanner, vetores
   vetormaioridade.java - Laço de repetição para, Scanner, vetores
+  vetorpremio.java - Laço de repetição para e enquanto, else if, vetor, Scanner 
