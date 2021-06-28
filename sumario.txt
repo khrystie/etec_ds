@@ -67,7 +67,9 @@ Estudos
   
   /*** Matriz ***/  
 Atividades
-
+  09_matrizSoma.java - Laço de repetição para, matrizes, Scanner
+  09_mediaPosicao.java - Laço de repetição para, **vetor**, Scanner
+  
 Estudos
   matrizNotas.java - Laço de repetição para, matrizes, Scanner -------------> otimizar código (inserir média para cada aluno) <------------------
   matrizSoma.java - Laço de repetição para, matrizes, Scanner 
@@ -76,3 +78,4 @@ Estudos
   matrizvalorAtribuido.java - Laço de repetição para, matrizes, JOptionPane -------------> otimizar código <------------------
   matrizforadolaco.java - Laço de repetição para, matrizes, JOptionPane, Scanner -------------> estudar código <------------------
   matrizEstacionamento.java - Laço de repetição para, matrizes, Scanner -------------> estudar/otimizar código <------------------
+  
