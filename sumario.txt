@@ -91,3 +91,8 @@ Estudos
 
   agenda 15
   automaticoSlideShow.html - css externo (framework w3css) e css inline, galeria automática
+  manualSlideShow.html - 
+  
+  jsExterno.html / jsExterno.js - javascript externo, laço de repetição para
+  jsInline.html - javascript inline, getElementById
+  jsInterno.html - javascript interno, prompt
