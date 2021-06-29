@@ -90,9 +90,16 @@ Estudos
   16_agenda.html - css externo (framework w3css), css interno e css inline, galeria automática, fadeToggle
 
   agenda 15
-  automaticoSlideShow.html - css externo (framework w3css) e css inline, galeria automática
-  manualSlideShow.html - 
+  automaticoSlideShow.html - css externo (framework w3css) e css inline, slideshow automático
+  manualSlideShow.html - css externo (framework w3css) e css inline, slideshow manual
   
   jsExterno.html / jsExterno.js - javascript externo, laço de repetição para
   jsInline.html - javascript inline, getElementById
   jsInterno.html - javascript interno, prompt
+
+  agenda 16
+  jqExample.html - animação três quadrados rgb se expandem ao clicar no botão
+  jqExample2.html - expandir texto ao clicar na aba
+  jqInicio.html - quadrado azul
+  jqPluggin.html  - slideshow automatico com efeito fade
+  jquery.innerfade.js - arquivo js innerfade
