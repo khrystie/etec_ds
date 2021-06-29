@@ -8,7 +8,7 @@
 // importa biblioteca do JOptionPane
 import javax.swing.JOptionPane;
 
-public class plano_de_saude {
+public class planoSaude {
 	public static void main (String[] args) {
 		// tratamento de erro
 		try {
