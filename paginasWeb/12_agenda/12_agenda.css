@@ -1,0 +1,86 @@
+<!-- 
+    Descrição: css externo da página web com galeria de fotos de casamento em cinco colunas.
+    Tags: css externo (flex direction, flex grow), coluna vertical
+    Data: 10/11/2021
+    Autor: Chrystie
+-->
+
+body    {
+    color:#2e2e2e;
+    font-size: 12px;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    cursor: crosshair;
+}
+
+a:link, a:visited, a:active {
+    color: goldenrod;
+    text-decoration: none;
+}
+
+a:hover {
+    font-weight: bold;
+}
+
+h1 {
+    color: darkgoldenrod;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+h2 {
+    color: darkgoldenrod;
+    text-align: left;
+    text-transform: capitalize;
+}
+
+#footer {
+    color: gray;
+    text-align: center;
+    width: 100%;
+    text-transform: uppercase;
+    padding: 1% 0%;
+}
+
+.container   {
+    background-color: wheat;
+display: flex;
+flex-direction: row;    
+width: 100%;
+} 
+
+.container2 {
+    position: relative;
+  }
+  
+  .caption {
+    position: absolute;
+    bottom: 50px;
+    right: 5px;
+    opacity: 0.55;
+    padding: 1%;
+    border-radius: 3px;
+    background-color: white;
+  }
+
+.coluna1, .coluna2, .coluna3, .coluna4, .coluna5 {
+   background-color: none;
+   padding: 0% 1%;
+flex-grow: 1;
+margin: 0.25%;
+}
+
+
+img { 
+    opacity: 80%;
+    width: 100%;
+    padding: 10% 0% 15%;
+    margin: 1% 0%;
+    background-color: white;
+}
+
+img:hover, .caption:hover {
+cursor: none;
+opacity: 100%;
+}
