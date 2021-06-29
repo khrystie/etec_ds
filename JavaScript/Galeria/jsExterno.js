@@ -9,8 +9,8 @@
 var i;
 
 // laço de repetição
+// exibir números
 for (i = 0; i <= 100; i++)
 {
-	// exibir números
     document.write(i + " <br>");
 }
