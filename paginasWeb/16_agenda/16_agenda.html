@@ -1,0 +1,205 @@
+  <!-- 
+    Descrição: Site de calçados om exibição dos sapatos ao clicar nas abas, inclui galeria automatica  com js. 
+    Fonte imagens (banner, ícones linguagens): Etec EaD do Centro Paula Souza
+    Fontes imagens docentes: constam abaixo das fotos dos docentes.
+    Tags: css externo (framework w3css), css interno e css inline, galeria automática, fadeToggle
+    Data: 13/12/2021
+    Autor: Chrystie
+-->
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>    
+    <title>Dominuca Calçados</title>
+  
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" media="screen" href="https://www.w3schools.com/w3css/4/w3.css">
+    <style>
+        #col-esq-1, #col-dir-1{
+            display:none;
+        }
+    </style>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <!-- java script - efeito fadeToggle -->
+    <script>
+        $(document).ready( function() {
+            $("#col-esq").click( function() {
+                $("#col-esq-1").fadeToggle(1000);
+            });
+
+            $("#col-dir").click( function() {
+                $("#col-dir-1").fadeToggle(1000);
+            });
+        });     
+    </script>
+    <!-- java script - efeito fadeToggle -->
+</head>
+
+<body style="background-color: aliceblue;">
+    <!-- Conteúdo-->
+    <div class="w3-container w3-center w3-animate-top"> 
+        <h2>Dominuca Calçados</h2>
+        <!-- Coluna Esquerda --> 
+        <div class="w3-half" id="col-esq" style="width: 48%; margin:1%">
+            <!-- título coluna esquerda -->
+            <h2 class="w3-khaki  w3-round-large w3-hover-greyscale">Calçados Sociais</h2>
+            <!-- Calçados Sociais -->           
+            <div id="col-esq-1">
+                <!-- Coluna Esquerda - Foto 1 -->           
+                <div class="w3-card w3-half" style="width:49%; margin-right: 1%;">   
+                    <img src="fotos/social_1.jpg" alt="Sapato Social Scarpin Azul" class="w3-hover-opacity w3-animate-zoom"  style="width:100%;">
+                    <div class="w3-container">
+                      <h2>Scarpin Azul</h2>
+                    </div>
+                </div>              
+                <!-- Coluna Esquerda - Descrição 1 -->           
+                <div class="w3-half w3-left-align w3-padding-small w3-white w3-hover-light-blue" style="width:50%">
+                    <p>Descrição: Sapato feminino modelo Scarpin com salto fino cor azul royal em tom pastel 10cm</p>
+                    <p>Preço: R$189,90</p> 
+                </div> 
+                <!-- Fonte - Calçado 1  -->                         
+                <div class="w3-container w3-left-align w3-margin-bottom" style="width:100%">
+                   Fonte: <a href="https://br.freepik.com/fotos-premium/foto-das-pernas-da-mulher-elegante-em-sapatos-azuis-isoladas-em-cinza_6548823.htm">Site</a>
+                </div>
+                           
+                <!-- Coluna Esquerda - Foto 2 -->
+                <div class="w3-card w3-half" style="width:49%; margin-right: 1%;">   
+                    <img src="fotos/social_2.jpg" alt="Sapato Social Scarpin Preto" class="w3-hover-opacity w3-animate-zoom"  style="width:100%;">
+                    <div class="w3-container">
+                      <h2>Scarpin Preto</h2>
+                    </div>
+                </div>                
+                <!-- Coluna Esquerda - Descrição 2 -->           
+                <div class="w3-half w3-left-align w3-padding-small w3-white w3-hover-light-blue" style="width:50%">
+                    <p>Descrição: Sapato feminino modelo Scarpin com salto fino preto em verniz 8cm</p>
+                    <p>Preço: R$189,90</p> 
+                </div>                
+                <!-- Fonte - Calçado 2  -->                         
+                <div class="w3-container w3-left-align w3-margin-bottom" style="width:100%">
+                    Fonte: <a href="https://br.freepik.com/fotos-gratis/close-up-da-mulher-com-saltos-pretos_899542.htm#query=sapato%20&position=40">Site</a>
+                </div>
+
+                <!-- Coluna Esquerda - Foto 3 -->
+                <div class="w3-card w3-half" style="width:49%; margin-right: 1%;">   
+                    <img src="fotos/social_3.jpg" alt="Sapato Social Scarpin Nude" class="w3-hover-opacity w3-animate-zoom"  style="width:100%;">
+                    <div class="w3-container">
+                      <h2>Scarpin Azul</h2>
+                    </div>
+                </div>                
+                <!-- Coluna Esquerda - Descrição 3 -->           
+                <div class="w3-half w3-left-align w3-padding-small w3-white w3-hover-light-blue" style="width:50%">
+                    <p>Descrição: Sapato feminino modelo Scarpin com salto fino cor azul royal em tom pastel 10cm</p>
+                    <p>Preço: R$189,90</p> 
+                </div>                 
+                <!-- Fonte - Calçado 3  -->                         
+                <div class="w3-container w3-left-align w3-margin-bottom" style="width:100%">
+                  Fonte: <a href="https://br.freepik.com/fotos-premium/close-up-da-noiva-calcar-sapatos-elegantes-e-vestido-de-noiva_6739795.htm#page=1&query=sapato%20nude&position=18">Site</a>
+                </div>
+            </div>
+            <!-- Fim Calçados Sociais -->           
+        </div>
+        <!-- Fim Coluna Esquerda --> 
+        
+        <!-- Coluna Direita --> 
+        <div class="w3-half" id="col-dir" style="width: 48%; margin:1%">
+        <h2 class="w3-light-blue  w3-round-large w3-hover-greyscale">Calçados Casuais</h2>
+            <!-- Calçados Casuais -->           
+            <div id="col-dir-1">
+                <!-- Galeria automática de fotos-->
+                <div class="mySlides">
+                    <!-- Coluna Direita - Foto 1  --> 
+                    <div class="w3-card w3-half" style="width:49%; margin-right: 1%;">   
+                        <img src="fotos/casual_1.jpg" alt="Oxford Azul Turquesa" class="w3-hover-opacity w3-animate-zoom"  style="width:100%;">
+                        <div class="w3-container">
+                           <h2>Oxford Azul</h2>
+                        </div>
+                    </div>                
+                    <!-- Coluna Direita - Descrição 1 -->             
+                    <div class="w3-half w3-left-align w3-padding-small  w3-white w3-hover-light-blue" style="width:50%">
+                        <p>Descrição: Sapato feminino modelo Oxford cor azul turquesa em camurça</p>
+                        <p>Preço: R$79,90</p> 
+                    </div>                 
+                    <!-- Fonte Direita - Calçado 1  -->                         
+                    <div class="w3-container w3-left-align w3-margin-bottom" style="width:100%">
+                        Fonte:<a href="https://br.freepik.com/fotos-premium/par-de-botas-baixas-de-camurca-turquesa-e-sueter-tricotado-em-cor-aqua_7395798.htm#page=1&query=oxford%20feminino&position=9">Site</a>
+                    </div>
+                    <!-- Fim Coluna Direita - Foto 2 -->
+                </div>
+                <!-- Fim Galeria automática de fotos-->
+              
+                <!-- Galeria automática de fotos-->
+                <div class="mySlides">
+                    <!-- Coluna Direita - Foto 2 -->
+                    <div class="w3-card w3-half" style="width:49%; margin-right: 1%;">   
+                        <img src="fotos/casual_2.jpg" alt="Oxford Verde Militar" class="w3-hover-opacity w3-animate-zoom"  style="width:100%;">
+                        <div class="w3-container">
+                            <h2>Oxford Verde </h2>
+                        </div>
+                    </div>
+                    <!-- Coluna Direita - Descrição 2 -->             
+                    <div class="w3-half w3-left-align w3-padding-small  w3-white w3-hover-light-blue" style="width:50%">
+                        <p>Descrição: Sapato feminino modelo Oxford cor verde milizar em verniz</p>
+                        <p>Preço: R$89,90</p> 
+                    </div> 
+                    <!-- Fonte Direita - Calçado 2  -->                         
+                    <div class="w3-container w3-left-align w3-margin-bottom" style="width:100%">
+                        Fonte: <a href="https://br.freepik.com/fotos-premium/esverdeie-sapatos-oxford-envernizados-perto-de-camisa-branca-bolsa-e-cachecol-em-fundo-de-madeira-vista-traseira_7365190.htm#page=1&query=oxford%20feminino&position=11">Site</a>
+                    </div>
+                    <!-- Fim Coluna Direita - Foto 2 -->
+                </div>
+                <!-- Fim Galeria automática de fotos-->
+
+                <!-- Galeria automática de fotos-->
+                <div class="mySlides">
+                    <!-- Coluna Direita - Foto 3 -->
+                    <div class="w3-card w3-half" style="width:49%; margin-right: 1%;">   
+                        <img src="fotos/casual_3.jpg" alt="Oxford Preto" class="w3-hover-opacity w3-animate-zoom"  style="width:100%;">
+                        <div class="w3-container">
+                            <h2>Oxford Preto</h2>
+                        </div>
+                    </div>
+                    <!-- Coluna Direita - Descrição 3 -->             
+                    <div class="w3-half w3-left-align w3-padding-small  w3-white w3-hover-light-blue" style="width:50%">
+                        <p>Descrição: Sapato feminino modelo Oxford cor preto em verniz</p>
+                        <p>Preço: R$89,90</p> 
+                    </div> 
+                    <!-- Fonte Direita - Calçado 3  -->                         
+                    <div class="w3-container w3-left-align w3-margin-bottom" style="width:100%">
+                        Fonte: <a href="https://br.freepik.com/fotos-premium/sapatos-de-plataforma-oxford-pretos-femininos_6084269.htm#page=1&query=oxford%20feminino&position=23">Site</a>
+                    </div>
+                    <!-- Fim Coluna Direita - Foto 3 -->
+                </div>
+                <!-- Fim Galeria automática de fotos-->
+           </div>
+           <!-- Fim Calçados Casuais-->
+
+            <!-- java script - troca de imagem a cada dois segundos -->
+            <script>
+                var myIndex = 0;
+                carousel();
+                
+                function carousel() {
+                var i;
+                var x = document.getElementsByClassName("mySlides"); 
+                  
+                  for (i = 0; i < x.length; i++) {
+                    x[i].style.display = "none";
+                  }
+                myIndex++;
+                  
+                  if (myIndex > x.length) { 
+                    myIndex = 1 
+                  }
+                  
+                  x[myIndex - 1].style.display = "block"; 
+                  setTimeout(carousel, 2000); // Change image every 2 seconds
+                }
+            </script> 
+            <!-- java script - troca de imagem a cada dois segundos -->          
+        </div>
+        <!-- Fim Coluna Direita --> 
+    </div>
+    <!-- Fim conteúdo-->  
+</body>
