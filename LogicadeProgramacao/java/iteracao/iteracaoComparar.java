@@ -8,7 +8,7 @@
 
 import java.util.Scanner;
 
-public class Chrystie_Ag7_DS_I_apostila_exerc3 {
+public class iteracaoComparar {
 	
 	public static void main (String[] args) {
 		// declaração de variáveis
