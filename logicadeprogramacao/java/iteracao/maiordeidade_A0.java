@@ -5,7 +5,6 @@
  	Autor: Chrystie
  	Data: 08/10/2020
 ************************************************************************/
-
 import javax.swing.JOptionPane;
 public class maiordeidade_A0 {	
 	public static void main (String[] args) {
