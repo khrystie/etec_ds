@@ -1,7 +1,7 @@
 /************************************************************************
 	Programa: Leitura de dois números inteiros. Se os números são iguais, 
 	exibe a soma, senão, a multiplicação dos números.  
-  Tag: Estrutura Lógica de Seleção, JOptionPane, try...catch
+ 	Tag: Estrutura Lógica de Seleção, JOptionPane, try...catch
  	Autor: Chrystie
  	Data: 15/09/2020
 ************************************************************************/
