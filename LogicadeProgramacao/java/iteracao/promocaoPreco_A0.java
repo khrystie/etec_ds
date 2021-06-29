@@ -9,7 +9,7 @@
 
 import javax.swing.JOptionPane;
 
-public class Chrystie_Ag6_DS_I_JOptionPane {
+public class promocaoPreco_A0 {
 	public static void main (String[] args) {
 		// declaração de variáveis
 		String produto;
