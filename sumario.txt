@@ -86,6 +86,7 @@ Estudos
   12_agenda.html - css externo (flex direction, flex grow), coluna vertical, polaroid
   13_agenda.html - css externo (framework w3css) e css inline, animated effect 
   14_agenda.html - css externo (framework w3css), css interno e css inline, icones, navbar, layout responsivo
-  15_agenda.html - css externo (framework w3css), css interno e css inline, icones, navbar, layout responsivo, galeria
+  15_agenda.html - css externo (framework w3css), css interno e css inline, icones, navbar, layout responsivo, galeria (js manual)
+  16_agenda.html - css externo (framework w3css), css interno e css inline, galeria automática, fadeToggle
 
   
