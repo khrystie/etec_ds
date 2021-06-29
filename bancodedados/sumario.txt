@@ -1,19 +1,12 @@
-
 Data: 22/10/2020
-Ag9_TI_I.pdf  - Diagrama ER (Entidade Relacionamento)
-** Enunciado **
-Monte o Diagrama Entidade Relacionamento (DER), a partir dos enunciados a seguir:
+Autor: Chrystie
+        Ag9_TI_I.pdf  - Diagrama ER (Entidade Relacionamento)
 
-Uma empresa deseja manter controle dos projetos desenvolvidos por seus departamentos.
-Cada departamento é responsável por um único projeto em desenvolvimento. Esses projetos desenvolvem equipamentos para motores hidráulicos. Um projeto utiliza  diversas peças, que também estão envolvidas em vários outros projetos. Em um departamento trabalham vários funcionários, mas para cada departamento há um       único gerente responsável.
-    Departamentos: número do departamento, nome e local.
-    Projetos: código do projeto, descrição e duração.
-    Peças: número da peça e descrição.
-    Gerente e funcionários: matrícula, nome e cargo.
-    
-Data: 25/10/2020    
-Ag10_TI_I.pdf  - Mapeamento de um DER (Diagrama Entidade Relacionamento)
+Data: 25/10/2020
+Autor: Chrystie
+        Ag10_TI_I.pdf  - Mapeamento de um DER (Diagrama Entidade Relacionamento)
 
 07/11/2020
-Ag11_TI_I.pdf  - Normalização de tabela
+Autor: Chrystie
+        Ag11_TI_I.pdf  - Normalização de tabela
 
