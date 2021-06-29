@@ -5,7 +5,6 @@
  	Autor: Chrystie
  	Data: 12/10/2020
 ************************************************************************/
-
 import javax.swing.JOptionPane;
 
 public class convidadosLista {
