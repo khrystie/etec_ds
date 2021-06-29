@@ -5,7 +5,6 @@
  	Autor: Chrystie
  	Data: 21/09/2020
 ************************************************************************/
-
 import javax.swing.JOptionPane;
 
 public class 05_cargaBagagens.java{
