@@ -9,7 +9,7 @@
 
 import javax.swing.JOptionPane;
 
-public class Chrystie_Ag6_DS_I_forum {
+public class maiordeidade {
 	public static void main (String[] args) {
 	// declaração de variáveis
 		String nome;
