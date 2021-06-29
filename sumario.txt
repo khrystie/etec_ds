@@ -83,7 +83,9 @@ Estudos
  Atividades
   10_agenda.html - css interno, p, span class, hr 
   11_agenda.html - css interno, link hover, img hover, border radius, grayscale, mouse pointer, border dotted, display table, max-height, object fit, overflow,                        figure, figurecaption, img alt
-  12_agenda.html - 
-    
-  
+  12_agenda.html - css externo (flex direction, flex grow), coluna vertical, polaroid
+  13_agenda.html - css externo (framework w3css) e css inline, animated effect 
+  14_agenda.html - css externo (framework w3css), css interno e css inline, icones, navbar, layout responsivo
+  15_agenda.html - css externo (framework w3css), css interno e css inline, icones, navbar, layout responsivo, galeria
+
   
