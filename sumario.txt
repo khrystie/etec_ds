@@ -89,4 +89,5 @@ Estudos
   15_agenda.html - css externo (framework w3css), css interno e css inline, icones, navbar, layout responsivo, galeria (js manual)
   16_agenda.html - css externo (framework w3css), css interno e css inline, galeria automática, fadeToggle
 
-  
+  agenda 15
+  automaticoSlideShow.html - css externo (framework w3css) e css inline, galeria automática
