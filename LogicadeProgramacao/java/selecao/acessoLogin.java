@@ -5,7 +5,6 @@
  	Autor: Chrystie
  	Data: 12/09/2020
 ************************************************************************/
-
 // importa biblioteca
 import java.util.Scanner;
 
