@@ -9,7 +9,7 @@
 // importa biblioteca
 import javax.swing.JOptionPane;
 
-public class JOErrorMsg_equals {
+public class acessoLogin_A0 {
 
 	public static void main(String[] args) {
 		// declaração de variáveis
