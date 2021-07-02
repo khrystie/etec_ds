@@ -103,3 +103,26 @@ Estudos
   jqInicio.html - quadrado azul
   jqPluggin.html  - slideshow automatico com efeito fade
   jquery.innerfade.js - arquivo js innerfade
+  
+  
+  
+    
+<!-- 
+            Programa:   Formulário de cadastro com método POST.   
+            Atividade avaliativa da agenda 2 da matéria de DS II  
+            Curso de Desenvolvimento de Sistemas da Etec de EaD
+            Tags: label, input, button, method post, isset 
+            Data: 21/02/2021
+-->
+
+
+  /*** DS II ***/ 
+  /*** php ***/ 
+  agenda 2
+  cadastro - label, input, button, method post, isset 
+  agenda 3
+  pagamento - label, input, button, method post, option, isset, elseif  -------------> erro no isset <------------------
+  agenda 5
+  tabelaMedias - array, foreach, table, tr, th, td
+  agenda 6 
+  tabelaNotas - array, foreach, table, tr, thead, th, td, sql
