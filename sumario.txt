@@ -126,3 +126,5 @@ Estudos
   tabelaMedias - array, foreach, table, tr, th, td
   agenda 6 
   tabelaNotas - array, foreach, table, tr, thead, th, td, sql
+  agenda 8
+  sistema - sql, variáveis de sessão, cookies, require_once 
