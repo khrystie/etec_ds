@@ -130,5 +130,5 @@ Estudos
   sistema - sql, variáveis de sessão, cookies, require_once 
   
   
-  condicional.php - if, elseif, while, for, vetor, foreach 
+  condicional.php - estrutura condicional if, elseif, laço de repetição para e enquanto, vetor, foreach
   
