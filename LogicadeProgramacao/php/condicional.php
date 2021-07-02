@@ -1,6 +1,6 @@
 <!-- 
     Arquivo com estruturas de lógica de programação em php.
-    Tags: if, elseif, while, for, vetor, foreach 
+    Tags: estrutura condicional if, elseif, laço de repetição para e enquanto, vetor, foreach 
     DSII Ag3 
     Data: 27/02/2021 
 -->
