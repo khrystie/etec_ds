@@ -128,3 +128,7 @@ Estudos
   tabelaNotas - array, foreach, table, tr, thead, th, td, sql
   agenda 8
   sistema - sql, variáveis de sessão, cookies, require_once 
+  
+  
+  condicional.php - if, elseif, while, for, vetor, foreach 
+  
