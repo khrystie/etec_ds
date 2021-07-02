@@ -3,7 +3,7 @@
             Atividade avaliativa da agenda 6 da matéria de DS II  
             Curso de Desenvolvimento de Sistemas da Etec de EaD
             Tags: array, foreach, table, tr, thead, th, td, 
-            Data: 19/03/2021
+            Data: 28/03/2021
 -->
 <!DOCTYPE html>
 <html lang="pt-br">
