@@ -2,7 +2,7 @@
             Programa:   Exibe nomes de alunos e suas respectivas notas do bd alunoconcluinte.
             Atividade avaliativa da agenda 6 da matéria de DS II  
             Curso de Desenvolvimento de Sistemas da Etec de EaD
-            Tags: array, foreach, table, tr, thead, th, td, 
+            Tags: array, foreach, table, tr, thead, th, td, sql
             Data: 28/03/2021
 -->
 <!DOCTYPE html>
