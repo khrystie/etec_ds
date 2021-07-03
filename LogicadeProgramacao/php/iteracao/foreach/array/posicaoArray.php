@@ -1,6 +1,6 @@
 <!-- 
 		Programação: Exibe de acordo com a posição dada o dado do vetor.
-		Tag: vetor (array) 
+		Tag: array 
 		Data: 12/03/2021
 -->
 
