@@ -1,6 +1,6 @@
 <!-- 
 		Programação: Formulário com caixa de seleção usando vetor
-		Tag: laço de repetição foreach, vetor (array), select, option
+		Tag: laço de repetição foreach, array, select, option
 		Data: 12/03/2021
 -->
 <!DOCTYPE html>
