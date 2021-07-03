@@ -30,9 +30,8 @@ if ($valor1<$valor2){
     for($i=0; $i<=$valor2; $i++) {
         $valor1 +=1; 
         echo $valor1  .' <br>';
-          if($valor1>=$valor2){ 
+          if($valor1>=$valor2) 
             break;
-          }
   }
 } elseif ($valor1>$valor2) {
     echo $valor1 .'<br>'; 
@@ -40,18 +39,14 @@ if ($valor1<$valor2){
     for($i=0; $i<=$valor2; $i++) {
         $valor1 -=1; 
         echo $valor1  .' <br>';
-          if($valor1<=$valor2){ 
+          if($valor1<=$valor2) 
             break;
-          }
   }
 
 } elseif ($valor1=$valor2){
   echo $valor1;
 }
-
-
 ?>
-
-    
+   
 </body>
 </html>
