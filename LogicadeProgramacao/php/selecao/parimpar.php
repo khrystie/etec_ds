@@ -23,14 +23,11 @@
     <h2 class="w3-container w3-indigo"> Par ou ímpar   </h2>
 
     <form class="w3-container" method="POST" action="parimparAction.php">
-    <label class="w3-text-indigo">Insira um número: </label> 
-    <input class="w3-input w3-border w3-white" name="txtValor" type="number" placeholder="Digite valor">
+        <label class="w3-text-indigo">Insira um número: </label> 
+        <input class="w3-input w3-border w3-white" name="txtValor" type="number" placeholder="Digite valor">
     
-    <button class="w3-btn w3-grey w3-round-large" style="margin-top: 2%;" name="btnCalcular">Enviar</button>
+        <button class="w3-btn w3-grey w3-round-large" style="margin-top: 2%;" name="btnCalcular">Enviar</button>
     </form>
-
     </div>
-
-    
 </body>
 </html>
